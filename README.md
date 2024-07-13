@@ -2,9 +2,6 @@
 
 Tired of repetitive tasks? Yearning for the efficiency of an A.I. companion? Look no further! J.A.R.V.I.S. empowers you to automate daily routines with the power of voice commands.
 
-## Built with
-https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png
-
 ## What can this A.I. assistant do for you?
 
 * It can send emails to you.
