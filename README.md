@@ -10,4 +10,16 @@ Tired of repetitive tasks? Yearning for the efficiency of an A.I. companion? Loo
 * It can open websites like Google, YouTube, etc., in a web browser.
 * It is capable of opening your code editor or IDE with a single voice command.
 
+ ## How It Works
+Jarvis leverages the OpenAI API to generate context-aware responses based on user input. The application uses the following libraries for audio processing:
+* gtts: Converts text to speech using Google's Text-to-Speech API
+* pygame: Plays audio files with adjustable speed and volume
+* speech_recognition: Transcribes audio input using Google's Speech Recognition API
+
+## Contribution
+### We welcome your contributions! Feel free to submit issues, feature requests, and pull requests to help improve Jarvis.
+License This project is licensed under the MIT License.
+
+We hope you enjoy using Jarvis and look forward to seeing what you create!
+
 
