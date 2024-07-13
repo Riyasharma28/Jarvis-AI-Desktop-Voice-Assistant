@@ -1,9 +1,13 @@
-Have you ever wondered how cool having your own A.I. assistant would be? Imagine how easier it would be to send emails without typing a single word, do Wikipedia searches without opening web browsers, and perform many other daily tasks like playing music with the help of a single voice command
+# J.A.R.V.I.S. - Your Python-Powered Desktop Voice Assistant
 
- With Jarvis AI, you can:
- 
-Effortlessly send emails without a single keystroke.
-Seamlessly search Wikipedia for information, all through voice commands.
-Enjoy music playback with ease.
-Launch websites like Google, YouTube, and more with a simple voice instruction.
-Open your preferred code editor or IDE on demand.
+### Tired of repetitive tasks? Yearning for the efficiency of an A.I. companion? Look no further! J.A.R.V.I.S. empowers you to automate daily routines with the power of voice commands.
+
+## What can this A.I. assistant do for you?
+
+It can send emails on your behalf.
+It can play music for you.
+It can do Wikipedia searches for you.
+It is capable of opening websites like Google, Youtube, etc., in a web browser.
+It is capable of opening your code editor or IDE with a single voice command.
+Enough talks! Let's start building our own J.A.R.V.I.S.
+
