@@ -18,7 +18,7 @@ Jarvis leverages the OpenAI API to generate context-aware responses based on use
 
 ## Contribution
 ### We welcome your contributions! Feel free to submit issues, feature requests, and pull requests to help improve Jarvis.
-License This project is licensed under the MIT License.
+
 
 We hope you enjoy using Jarvis and look forward to seeing what you create!
 
