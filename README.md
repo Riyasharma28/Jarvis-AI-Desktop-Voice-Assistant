@@ -1,6 +1,6 @@
-# J.A.R.V.I.S. - Your Python-Powered Desktop Voice Assistant
+# S.I.R.I - Your Python-Powered Desktop Voice Assistant
 
-Tired of repetitive tasks? Yearning for the efficiency of an A.I. companion? Look no further! J.A.R.V.I.S. empowers you to automate daily routines with the power of voice commands.
+Tired of repetitive tasks? Yearning for the efficiency of an A.I. companion? Look no further! S.I.R.I  empowers you to automate daily routines with the power of voice commands.
 
 ## What can this A.I. assistant do for you?
 
@@ -11,7 +11,7 @@ Tired of repetitive tasks? Yearning for the efficiency of an A.I. companion? Loo
 * It is capable of opening your code editor or IDE with a single voice command.
 
  ## How It Works
-Jarvis leverages the OpenAI API to generate context-aware responses based on user input. The application uses the following libraries for audio processing:
+S.I.R.I leverages the OpenAI API to generate context-aware responses based on user input. The application uses the following libraries for audio processing:
 * gtts: Converts text to speech using Google's Text-to-Speech API
 * pygame: Plays audio files with adjustable speed and volume
 * speech_recognition: Transcribes audio input using Google's Speech Recognition API
